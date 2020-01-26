@@ -1,0 +1,11 @@
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Sci Cal.vbprojAssemblyReference.cache
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\obj\Debug\Sci Cal.vbproj.GenerateResource.cache
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Mark Angelo\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
